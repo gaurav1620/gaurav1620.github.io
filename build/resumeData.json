@@ -1,0 +1,184 @@
+{
+  "main": {
+    "name":"Gaurav Khairnar",
+    "occupation":"Software Developer",
+    "description":"I'm a tech enthusiast and I love to build systems that make people's lives easier.",
+    "image":"profilepic.jpeg",
+    "bio":"My passion for solving programming challenges on various Competetive Coding websites have made me a better problem solver with solid knowledge on Data Structures and Algorithms. I love to work on the MERN stack for building API's and applications.",
+    "contactmessage":"Get in touch with me.",
+    "email": "gauravak007@gmail.com",
+    "phone": "+91 7744079587",
+    "address":{
+      "street":"Swargate",
+      "city":"Pune",
+      "state":"Maharashtra",
+      "zip": "411009"
+    },
+    "website": "http://gaurav1620.github.io",
+    "resumedownload":"http://google.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/gaurav-khairnar-393100171/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/gaurav1620",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"PVG College of Engineering,Pune (Pune University)",
+        "degree":"Bachelor of Engineering in Information Technology",
+        "graduated":"April 2022",
+        "description":"My coursework at university is mainly focussed on OOP's, Data Strucutres, Project Development and Database Management systems."
+      },
+      {
+        "school":"SPPAC, Nashik",
+        "degree":"HSC (State Board)",
+        "graduated":"April 2018",
+        "description":"I took Mathematics, Physics and Chemistry as majors in HSC and graduated with distinction."
+      },
+      {
+        "school":"Symbiosis School, Nashik",
+        "degree":"SSC (CBSE)",
+        "graduated":"April 2016",
+        "description":"Completed my schooling from Symbiosis School, Nashik."
+      }
+    ],
+    "work":[
+      {
+        "company":"Student Grievience App",
+        "title":"RESTful API with CRUD operations",
+        "years":"MERN stack",
+        "description":"Created a REST API for a Student Grievience App with CRUD operations. The frontend of this app was built in React Native and the API was built using Node, Express and Mongoose. MongoDB was used for database."
+      },
+      {
+        "company":"Web Scraping",
+        "title":"A useful script to navigate Github from terminal",
+        "years":"Python (BS4)",
+        "description":"A Python script which allows users to see a full list of repositories, folders and files of a profile directly from terminal. Beautiful Soup 4 is used to scrape this data at runtime directly from Github web-pages."
+      },
+      {
+        "company":"Neural Network",
+        "title":"Built a Neural Network for a Line Following robot",
+        "years":"C/C++",
+        "description":"Successfully built a Neural Network in C++ without using a single library. Back-propagation and feed-forward algorithms were implemented from scratch. This Neural Network was trained on a small dataset where input was the IR sensor values and then was copied to Arduino after training was done to make the robot follow a line drawn on ground."
+      },
+      {
+        "company":"Titanic Survival Prediction",
+        "title":"A ML model built to predict the survival of passangers on titanic",
+        "years":"Numpy, Pandas, Scikit Learn",
+        "description":"A SVM based model for predicting the survival of a passenger in Titanic. The model is trained using  the Kaggle dataset on Titanic Disaster."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Data Structures and Algorithms",
+        "level":"90%"
+      },
+      {
+        "name":"C++",
+        "level":"85%"
+      },
+      {
+        "name":"Python",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"50%"
+      },
+      {
+        "name":"Machine Learning",
+        "level":"50%"
+      },
+      {
+        "name":"React",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"5 star on Codechef",
+        "category":"5 star on Codechef with global rank of 3995 (top 1.57%)",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.codechef.com/users/gaurav_1620"
+      },
+      {
+        "title":"#1125 in Google Kickstart",
+        "category":"Secured global rank 1125 in Google Kickstart",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://codingcompetitions.withgoogle.com/kickstart/certificate/round/000000000019ff43"
+      },
+      {
+        "title":"500+ Solved Problems",
+        "category":"Solved more than 500 problems on advanced Data Strucutes and Algorithms in a span of one year.",
+        "image":"original-thai-food.jpg",
+        "url":"https://www.stopstalk.com/user/profile/gaurav1620"
+      },
+      {
+        "title":"Google Foobar",
+        "category":"Completed level 3 of Google Foobar challenge",
+        "image":"resume-website.jpg",
+        "url":"https://www.linkedin.com/posts/gaurav-khairnar-393100171_foobar-google-algorithms-activity-6674708630610288640-hB_K"
+      },
+      {
+        "title":"Soundclound Rmx",
+        "category":"A lightweight replacement for SoundCloud made using React",
+        "image":"smirkspace.jpg",
+        "url":"https://soundcloud-remix.herokuapp.com/"
+      },
+      {
+        "title":"Published Technical Content",
+        "category":"Algorithm to find the total number of non-overlapping Graph Cycles.",
+        "image":"smirkspace.jpg",
+        "url":"https://www.geeksforgeeks.org/count-of-all-cycles-without-any-inner-cycle-in-a-given-graph/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Think twice code once.",
+        "user":""
+      }
+    ]
+  }
+}
