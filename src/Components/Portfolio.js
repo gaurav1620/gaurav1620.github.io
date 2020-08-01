@@ -30,8 +30,8 @@ class Portfolio extends Component {
 
          <div className="twelve columns collapsed">
 
-            <h1>Check Out Some of My Achievements.</h1>
-
+             <h1 style={{'color':'#000','fontSize':'20px'}}>Check Out Some of My Achievements.</h1>
+             <h1>(Note : Hover over frames to see details.)</h1>
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
             </div>
