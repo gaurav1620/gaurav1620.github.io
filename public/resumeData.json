@@ -2,15 +2,15 @@
   "main": {
     "name":"Gaurav Khairnar",
     "occupation":"Software Developer",
-    "description":"I'm a tech enthusiast and a passionate sports programmer.I like to build applications that make people's lives easier. In my free time I listen to rap music and surf internet to enjoy some random funny memes :)",
+    "description":"I'm a tech enthusiast and a passionate sports programmer. I like to build applications that make people's lives easier. In my free time I listen to rap music and surf internet to enjoy some random funny memes :)",
     "image":"profilepic.jpeg",
     "bio":"My passion for solving programming challenges on various Competitive Coding websites have made me a better problem solver with solid knowledge on Data Structures and Algorithms. I love to work on the MERN stack for building API's and applications.",
     "contactmessage":"Get in touch with me. (feature under development)",
     "email": "gauravak007@gmail.com",
     "phone": "+91 7744079587",
     "address":{
-      "street":"Swargate",
-      "city":"Pune",
+      "street":"",
+      "city":"Swargate, Pune",
       "state":"Maharashtra",
       "zip": "411009"
     },
@@ -81,25 +81,29 @@
         "company":"Student Grievance App",
         "title":"RESTful API with CRUD operations",
         "years":"MERN stack",
-        "description":"Created a REST API for a Student Grievance App with CRUD operations. The frontend of this app was built in React Native and the API was built using Node, Express and Mongoose. MongoDB was used for database."
+        "description":"Created a REST API for a Student Grievance App with CRUD operations. The frontend of this app was built in React Native and the API was built using Node, Express and Mongoose. MongoDB was used for database.",
+        "link":"https://github.com/gaurav1620/app-server"
       },
       {
         "company":"Web Scraping",
         "title":"A useful script to navigate Github from terminal",
         "years":"Python (BS4)",
-        "description":"A Python script which allows users to see a full list of repositories, folders and files of a profile directly from terminal. Beautiful Soup 4 is used to scrape this data at runtime directly from Github web-pages."
+        "description":"A Python script which allows users to see a full list of repositories, folders and files of a profile directly from terminal. Beautiful Soup 4 is used to scrape this data at runtime directly from Github web-pages.",
+        "link":"https://github.com/gaurav1620/Python/blob/master/GithubExplorer.py"
       },
       {
         "company":"Neural Network",
         "title":"Built a Neural Network for a Line Following robot",
         "years":"C/C++",
-        "description":"Successfully built a Neural Network in C++ without using a single library. Back-propagation and feed-forward algorithms were implemented from scratch. This Neural Network was trained on a small dataset where input was the IR sensor values and then was copied to Arduino after training was done to make the robot follow a line drawn on ground."
+        "description":"Successfully built a Neural Network in C++ without using a single library. Back-propagation and feed-forward algorithms were implemented from scratch. This Neural Network was trained on a small dataset where input was the IR sensor values and then was copied to Arduino after training was done to make the robot follow a line drawn on ground.",
+        "link":"https://github.com/gaurav1620/ML_LineFollower/"
       },
       {
         "company":"Titanic Survival Prediction",
         "title":"A ML model built to predict the survival of passangers on titanic",
         "years":"Numpy, Pandas, Scikit Learn",
-        "description":"A SVM based model for predicting the survival of a passenger in Titanic. The model is trained using  the Kaggle dataset on Titanic Disaster."
+        "description":"A SVM based model for predicting the survival of a passenger in Titanic. The model is trained using  the Kaggle dataset on Titanic Disaster.",
+        "link":"https://github.com/gaurav1620/titanic-survival"
       }
     ],
     "skills":[
@@ -160,12 +164,6 @@
         "url":"https://www.linkedin.com/posts/gaurav-khairnar-393100171_foobar-google-algorithms-activity-6674708630610288640-hB_K"
       },
       {
-        "title":"Soundclound Rmx",
-        "category":"A lightweight replacement for SoundCloud made using React",
-        "image":"scr.png",
-        "url":"https://soundcloud-remix.herokuapp.com/"
-      },
-      {
         "title":"Published Technical Content",
         "category":"Algorithm to find the total number of non-overlapping Graph Cycles.",
         "image":"gfg.png",
@@ -177,7 +175,7 @@
     "testimonials":[
       {
         "text":"Simplicity is prerequisite for reliability.",
-        "user":"- Dijstra"
+        "user":"Dijstra"
       }
     ]
   }
