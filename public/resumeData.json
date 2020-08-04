@@ -2,7 +2,7 @@
   "main": {
     "name":"Gaurav Khairnar",
     "occupation":"Software Developer",
-    "description":"I'm a tech enthusiast and a passionate sports programmer. I like to build applications that make people's lives easier. In my free time I listen to rap music and surf internet to enjoy some random funny memes :)",
+    "description":"I'm a tech enthusiast and a passionate sports programmer. I like to build applications that make people's lives easier.",
     "image":"profilepic.jpeg",
     "bio":"My passion for solving programming challenges on various Competitive Coding websites have made me a better problem solver with solid knowledge on Data Structures and Algorithms. I love to work on the MERN stack for building API's and applications.",
     "contactmessage":"Get in touch with me. (feature under development)",
