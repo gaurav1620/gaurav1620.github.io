@@ -18,6 +18,21 @@
     "resumedownload":"https://drive.google.com/file/d/1KkXSremBhHn-LWrz-YZLYfFZMrmVqHRD/view?usp=sharing",
     "social":[
       {
+        "name":"codechef",
+        "url":"https://www.codechef.com/users/gaurav_1620",
+        "className":"fa fa-code"
+      },
+      {
+        "name":"email",
+        "url":"mailto:gauravak007@gmail.com",
+        "className":"fa fa-envelope-o"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/gaurav_1620",
+        "className":"fa fa-twitter"
+      },
+      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/gaurav-khairnar-393100171/",
         "className":"fa fa-linkedin"
