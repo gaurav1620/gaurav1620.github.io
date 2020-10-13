@@ -14,8 +14,8 @@
       "state":"Maharashtra",
       "zip": "411009"
     },
-    "website": "https://gaurav-khairnar.herokuapp.com",
-    "resumedownload":"https://drive.google.com/file/d/1KkXSremBhHn-LWrz-YZLYfFZMrmVqHRD/view?usp=sharing",
+    "website": "https://gaurav1620.github.io",
+    "resumedownload":"https://drive.google.com/file/d/1uYrEb1nDNmMfMJ8tMzvI5dnsZyFOLLLw/view?usp=sharing",
     "social":[
       {
         "name":"codechef",
@@ -139,6 +139,12 @@
         "category":"5 star on Codechef with global rank of 3995 (top 1.57%)",
         "image":"ccc.png",
         "url":"https://www.codechef.com/users/gaurav_1620"
+      },
+      {
+        "title":"Open source contributions",
+        "category":"Contributed to various open source projects on github.",
+        "image":"gh.png",
+        "url":"https://github.com/gaurav1620"
       },
       {
         "title":"#1125 in Google Kickstart",
