@@ -108,27 +108,27 @@
       },
       {
         "name":"C++",
-        "level":"85%"
+        "level":"90%"
       },
       {
         "name":"Python",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"JavaScript",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"NodeJs",
-        "level":"50%"
+        "level":"80%"
       },
       {
         "name":"Machine Learning",
-        "level":"50%"
+        "level":"80%"
       },
       {
         "name":"React",
-        "level":"50%"
+        "level":"80%"
       }
     ]
   },
@@ -139,6 +139,12 @@
         "category":"5 star on Codechef with global rank of 3995 (top 1.57%)",
         "image":"ccc.png",
         "url":"https://www.codechef.com/users/gaurav_1620"
+      },
+      {
+        "title":"154'th in TCS Codevita",
+        "category":"Secured 154th position among 2 lac students",
+        "image":"gh,png",
+        "url":"https://www.linkedin.com/posts/gaurav-khairnar-393100171_codevita-codechef-machine-activity-6707006546611699712-Ovqo"
       },
       {
         "title":"Open source contributions",
